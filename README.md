@@ -20,8 +20,8 @@ pip install json
 ```python
 pip install getpass
 ```
-* Ter uma [Service Account](https://pan.dev/sase/docs/service-accounts/) do seu tenant para o uso
-* 
+* Ter uma [Service Account](https://pan.dev/sase/docs/service-accounts/) do seu tenant para o uso.
+  
 ### Utilização
 Certifique-se de que o Python 3.x está instalado no seu sistema e os módulos basicos estejam instalados corretamente.
 
